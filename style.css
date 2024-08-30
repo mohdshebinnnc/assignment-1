@@ -1,0 +1,47 @@
+.heading>h1{
+    font-size: 30px;
+    font-weight: 950;
+    text-align: center;
+    width: 300px;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+}
+.mainparent{
+   display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    height: 30vh;
+    width: 60vw;
+    border-radius: 30px;
+    background-color: lightgray;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.box{
+    margin-top: 40px;
+    padding: 10px 15px;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+.num>span{
+    display: flex;
+    justify-content: center;
+}
+.num{
+    text-align: center;
+    background-color: lightgray;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.details>p{
+    width: 900px;
+}
